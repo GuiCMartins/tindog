@@ -53,6 +53,19 @@ p {
   text-align: center;
 }
 
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  color: #ffffff;
+  padding: 7% 15%;
+}
+
+#footer {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 7%;
+}
+
 .container-fluid {
   padding: 3% 15% 7%;
 }
@@ -118,6 +131,10 @@ p {
 
 .pricing-col {
   padding: 3% 2%;
+}
+
+.footer-icon {
+  margin: 20px 10px;
 }
 
 @media (max-width: 1028px) {
